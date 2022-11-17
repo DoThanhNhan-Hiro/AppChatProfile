@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898947285232",
+    "firebase_url": "https://chat-group-369f4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-group-369f4",
+    "storage_bucket": "chat-group-369f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898947285232:android:dd03e1775c1bcf32350235",
+        "android_client_info": {
+          "package_name": "com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898947285232-s4q529d02a3oenk5v4cgu6i21d9i1b96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMzICniKxFDanfR6twuRqYnGvLyaAocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898947285232-s4q529d02a3oenk5v4cgu6i21d9i1b96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898947285232-1dvfg32em1d11a3fc2vvse6ohbht198l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.appChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
